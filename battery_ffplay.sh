@@ -14,4 +14,4 @@ then
 fi
 
 #sudo apt install ffmpeg
-#*/5 *¦  * * *¦  orange¦ DISPLAY=:0 /home/orange/bin/battery_ffplay.sh
+#*/5 *¦  * * *¦  me¦ DISPLAY=:0 /home/me/bin/battery_ffplay.sh
